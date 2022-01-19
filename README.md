@@ -11,3 +11,6 @@ In [dataset_segm.zip](https://github.com/nikuznetsov/diploma/blob/main/dataset_s
 In [slides.pdf](https://github.com/nikuznetsov/diploma/blob/main/slides.pdf "slides.pdf") it is possible to find slides from the thesis defence.
 
 In [text.pdf](https://github.com/nikuznetsov/diploma/blob/main/text.pdf "text.pdf") it is possible to find text of the whole work.
+
+## **Published materials:**
+1. Report thesis. 2nd conference on condensed matter physics, Chernogolovka. DOI: 10.26201/ISSP.2020/FKS-2.351
